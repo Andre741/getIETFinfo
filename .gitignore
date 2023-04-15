@@ -1,0 +1,22 @@
+# Ignore Viscose data and output files
+*.vis
+*.out
+
+# Ignore R Studio project files
+.Rproj.user/
+*.Rproj
+.Rhistory
+.RData
+
+# Ignore TypeScript compiled files
+*.js.map
+
+# Ignore Node modules
+node_modules/
+
+# Ignore VSCode history
+.vscode/
+.history/
+
+# Ignore rawData folder, this Data was provided by the Contreras, which contains personal data
+rawData/
