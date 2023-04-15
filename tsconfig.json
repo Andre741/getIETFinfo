@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "module": "es2022",
+    "target": "es2019",
+    "moduleResolution": "nodenext",
+    "lib": ["es2022", "dom"],
+    "sourceMap": true,
+    "strict": true,
+    "noImplicitAny": false,
+  }
+}

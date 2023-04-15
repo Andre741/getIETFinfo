@@ -1,0 +1,25 @@
+{
+  "name": "getietfinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetcher.js",
+  "scripts": {
+    "visualise": "node -r esm visualisation.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rawgraphs/rawgraphs-charts": "^1.0.0-beta.27",
+    "@rawgraphs/rawgraphs-core": "^1.0.0-beta.17",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "fs": "0.0.1-security",
+    "jsdom": "^21.1.1",
+    "node-fetch": "^3.3.1",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "esm": "^3.2.25"
+  }
+}
