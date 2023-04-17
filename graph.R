@@ -2,6 +2,7 @@ setwd("~/Documents/Master Thesis Interviews/getIETFinfo")
 library(tidyverse)
 library(dplyr)
 library(ggstream)
+library(showtext)
 
 options(pillar.print_max = 50)
 
