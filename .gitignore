@@ -21,3 +21,6 @@ node_modules/
 # Ignore rawData folder, this Data was provided by the Contreras, which contains personal data. Same with the dummy.json file
 rawData/
 dummy.json
+
+#ignore the graphs
+graphs/
